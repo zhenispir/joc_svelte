@@ -10,4 +10,4 @@
     </ul>
 </nav>
 
-<slot/>
+<slot />
